@@ -1,1 +1,1 @@
-# Leagueoflegends-jungle-manual
+# LOL-jungle-manual
